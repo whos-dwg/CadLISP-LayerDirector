@@ -1,0 +1,27 @@
+{
+  "snapshot_date": "2026-10-27",
+  "scope": "One independent LISP tool; original bytes preserved",
+  "files": [
+    {
+      "path": "lsp/LayerDirector.lsp",
+      "bytes": 12336,
+      "sha256": "89863742b13e53ab6edb71e97c4db6d2395a7983632c1e8ca62b80a060319570",
+      "encoding": "utf-8",
+      "bom": false,
+      "commands": [
+        {
+          "name": "LDON",
+          "line": 245
+        },
+        {
+          "name": "LDOFF",
+          "line": 246
+        },
+        {
+          "name": "LDM",
+          "line": 251
+        }
+      ]
+    }
+  ]
+}

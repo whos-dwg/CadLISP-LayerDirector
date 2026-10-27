@@ -1,0 +1,13 @@
+[
+  {
+    "file": "lsp/LayerDirector.lsp",
+    "commands": [
+      "LDON",
+      "LDOFF",
+      "LDM"
+    ],
+    "title": "依命令自動分層",
+    "category": "配置與圖層",
+    "manual": "README.md"
+  }
+]
